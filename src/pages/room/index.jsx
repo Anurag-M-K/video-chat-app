@@ -21,7 +21,7 @@ function index() {
       sharedLinks :[
         {
           name: "Copy Link",
-          url :`http://localhost:5173/room/${roomId}`
+          url :`https://snazzy-conkies-a7eab9.netlify.app/room/${roomId}`
         }
       ],
       scenario :{
